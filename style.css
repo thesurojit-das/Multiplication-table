@@ -22,6 +22,8 @@ body {
     backdrop-filter: blur(2.5px);
     -webkit-backdrop-filter: blur(2.5px);
     border-radius: 10px;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
 }
 
 
